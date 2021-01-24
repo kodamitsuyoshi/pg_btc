@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/3nan/.pyenv/versions/btc_pg/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/3nan/0000workspace/pg_btc/practice"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/Users/3nan/0000workspace/pg_btc/practice"
+    ],
+    "python.envFile": "${workspaceFolder}/.env"
+}
